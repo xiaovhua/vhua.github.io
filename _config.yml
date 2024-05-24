@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "JP"
-title                    : "LI Binghua (黎炳华, リ　ビンファ)"
+title                    : "LI Binghua (黎炳华, リ ビンファ)"
 title_separator          : "-"
 name                     : &name "LI Binghua"
 description              : &description "personal description"
