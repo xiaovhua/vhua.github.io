@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can find my [Curriculum Vitae](files/CV.pdf) here.
+
 ```
 Education
 ======
