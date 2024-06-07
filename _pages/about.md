@@ -18,14 +18,13 @@ in China, under the supervision of Prof.
 As a research intern, I have spent half a year at 
 <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>
 during my master's studies, researching on tensor decomposition in Tensor Learning Team led by Prof. 
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=cSQGe3YAAAAJ">ZHAO Qibin</a>
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=cSQGe3YAAAAJ">ZHAO Qibin</a>.
 Currently, I'm a doctoral students from 
 <a href="https://www.eecs.tuat.ac.jp/">Department of Electrical Engineering and Computer Science</a>
 of 
 <a href="https://www.tuat.ac.jp/">Tokyo University of Agriculture and Technology</a>
 , supervised by Prof. 
-<a href="https://scholar.google.com/citations?hl=zh-CN&user=pBXvYnwAAAAJ">TANAKA Toshihisa</a>
-.
+<a href="https://scholar.google.com/citations?hl=zh-CN&user=pBXvYnwAAAAJ">TANAKA Toshihisa</a>.
 </p>
 </div>
 
