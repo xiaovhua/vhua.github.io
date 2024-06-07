@@ -13,7 +13,7 @@ Welcome to my personal homepage!!!
 
 <div style="text-align: justify;">
 这是第一段文字，将会实现两端对齐。通过使用 HTML 的 `<div>` 标签和 CSS 样式 `text-align: justify;` 来控制文字的对齐方式。这样可以确保文字在左边和右边都对齐，看起来更加整齐。
-这是第二段文字，点击 <a href="(https://www.nankai.edu.cn/)">这里</a> 查看更多信息。
+这是第二段文字，点击 <a href="https://www.nankai.edu.cn/">这里</a> 查看更多信息。
 </div>
 
 
