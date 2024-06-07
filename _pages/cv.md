@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my [Curriculum Vitae]({% include base_path %}/files/CV.pdf) here.
+You can find my [Curriculum Vitae](vhua.github.io/files/CV.pdf) here.
