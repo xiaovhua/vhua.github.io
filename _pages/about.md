@@ -13,7 +13,7 @@ Welcome to my personal homepage!!!
 
 
 
-<div style="text-align: justify;">
+<div class="justify">
 My name is LI Binghua, a doctoral student from China. I received my master's degree from 
 <a href="[https://example.com](https://www.nankai.edu.cn/)">Nankai University</a>
   [Nankai University](https://www.nankai.edu.cn/) in China, under the supervision of Prof. [DUAN Feng](https://ieeexplore.ieee.org/author/38295033800?history=no&highlight=true&returnType=SEARCH&sortType=newest&pageNumber=1&searchWithin=%22Author%20Ids%22:38295033800&returnFacets=ALL).
