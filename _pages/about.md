@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div class="justify">
+
 Welcome to my personal homepage!!! 
 
 My name is LI Binghua, a doctoral student from China. I received my master's degree from [Nankai University](https://www.nankai.edu.cn/) in China, under the supervision of Prof. [DUAN Feng](https://ieeexplore.ieee.org/author/38295033800?history=no&highlight=true&returnType=SEARCH&sortType=newest&pageNumber=1&searchWithin=%22Author%20Ids%22:38295033800&returnFacets=ALL).
@@ -16,3 +18,5 @@ Currently, I'm a doctoral students from [Department of Electrical Engineering an
 My research interests and achievements over the past few years encompass tensor decomposition, medical imaging analysis, model interpretability and large-scale model. 
 
 Please find more details through my [CV](../assets/Curriculum_Vitae.pdf) in this page.
+
+</div>
