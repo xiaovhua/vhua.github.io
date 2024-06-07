@@ -17,6 +17,6 @@ Currently, I'm a doctoral students from [Department of Electrical Engineering an
 
 My research interests and achievements over the past few years encompass tensor decomposition, medical imaging analysis, model interpretability and large-scale model. 
 
-Please find more details through my [CV](../assets/Curriculum_Vitae.pdf) in this page.
+Please find more details through my [CV](../files/CV.pdf) in this page.
 
 </div>
