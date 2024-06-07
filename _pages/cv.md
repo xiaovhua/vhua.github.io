@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my [Curriculum Vitae](files/CV.pdf) here.
+You can find my [Curriculum Vitae](../files/CV.pdf) here.
