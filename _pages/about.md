@@ -31,7 +31,9 @@ of
 
 
 <div style="text-align: justify;">
+<p>
 My research interests and achievements over the past few years encompass tensor decomposition, medical imaging analysis, model interpretability and large-scale model. 
+</p>
 </div>
 
 
