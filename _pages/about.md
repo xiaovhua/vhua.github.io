@@ -36,6 +36,6 @@ My research interests and achievements over the past few years encompass tensor 
 </div>
 
 
-Please find more details through my [Curriculum Vitae](/files/CV.pdf) in this page.
+Please find more details through my [Curriculum Vitae](files/CV.pdf) in this page.
 
 
