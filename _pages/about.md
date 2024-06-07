@@ -10,6 +10,7 @@ redirect_from:
 Welcome to my personal homepage!!! 
 
 <div class="justify">
+<p>
 My name is LI Binghua, a doctoral student from China. I received my master's degree from 
 <a href="https://www.nankai.edu.cn/">Nankai University</a>
 in China, under the supervision of Prof. 
@@ -25,6 +26,7 @@ of
 , supervised by Prof. 
 <a href="https://scholar.google.com/citations?hl=zh-CN&user=pBXvYnwAAAAJ">TANAKA Toshihisa</a>
 .
+</p>
 </div>
 
 
