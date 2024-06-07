@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="justify">
+<div style="text-align: justify;">
 
 Welcome to my personal homepage!!! 
 
