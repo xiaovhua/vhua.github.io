@@ -1,4 +1,13 @@
 ---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -7,4 +16,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my [Curriculum Vitae](../files/CV.pdf) here.
+You can find my [Curriculum Vitae](/files/CV.pdf) here.
