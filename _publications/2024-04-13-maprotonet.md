@@ -1,7 +1,7 @@
 ---
 title: "MAProtoNet: A Multi-scale Attentive Interpretable Prototypical Part Network for 3D Magnetic Resonance Imaging Brain Tumor Classification"
 collection: publications
-permalink: /publication/maprotonet
+permalink: /publication/2024-04-13-maprotonet
 excerpt: 'This work proposes a novel interpretable model named MAProtoNet for brain tumor classification using brain MRI data.'
 date: 2024-04-13
 venue: 'arXiv'
