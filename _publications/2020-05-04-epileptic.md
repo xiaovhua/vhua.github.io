@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-05-04-epileptic
 excerpt: 'This paper proposes a novel 1D-cnn model and a data augmentation method for epileptic IEEG classification.'
 date: 2020-05-04
-venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020)'
+venue: 'IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 paperurl: 'https://ieeexplore.ieee.org/document/9052948'
 citation: 'Xuyang Zhao, Jordi Sol ́e-Casals, Binghua Li, Zihao Huang, Andong Wang, Jianting Cao, Qibin Zhao. Classification of Epileptic IEEG Signals by CNN and Data Augmentation. 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2020). IEEE, 2020: 926-930.'
 pubtype: 'conference'
