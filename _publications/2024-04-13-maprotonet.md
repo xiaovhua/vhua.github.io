@@ -5,7 +5,6 @@ permalink: /publication/2024-04-13-maprotonet
 excerpt: 'This work proposes a novel interpretable model named MAProtoNet for brain tumor classification using brain MRI data.'
 date: 2024-04-13
 venue: 'arXiv'
-slidesurl: ''
 paperurl: 'https://export.arxiv.org/abs/2404.08917'
 codeurl: 'https://github.com/TUAT-Novice/maprotonet'
 citation: 'Binghua Li, Jie Mao, Zhe Sun, Chao Li, Qibin Zhao, Toshihisa Tanaka. MAProtoNet: A Multi-scale Attentive Interpretable Prototypical Part Network for 3D Magnetic Resonance Imaging Brain Tumor Classification. arXiv preprint arXiv:2404.08917, 2024.'
