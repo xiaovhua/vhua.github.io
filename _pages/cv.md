@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my [Curriculum Vitae](../files/CV.pdf) here.
+You can find my [Curriculum Vitae](https://tuat-novice.github.io/vhua.github.io/files/CV.pdf) here.
