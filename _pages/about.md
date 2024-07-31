@@ -36,6 +36,5 @@ My research interests and achievements over the past few years encompass tensor 
 </div>
 
 
-Please find more details through my [Curriculum Vitae](files/CV.pdf) in this page.
-
+Please find more details through my [Curriculum Vitae](files/CV.pdf) in this page. I have also shared my presentation slides for the seminar [here](https://github.com/TUAT-Novice/Journal-Club). Please feel free to access them if you find them helpful.
 
