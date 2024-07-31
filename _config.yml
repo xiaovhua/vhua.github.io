@@ -28,7 +28,7 @@ author:
   location         : "Japan"
   employer         : "TUAT"
   uri              : # URL
-  email            : "s237857s@st.go.tuat.ac.jp" 
+  email            : s237857s@st.go.tuat.ac.jp
 
   # Academic websites
   arxiv            : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : https://github.com/TUAT-Novice
+  github           : "TUAT-Novice"
   kaggle           : # Username
   stackoverflow    : # Username
 
