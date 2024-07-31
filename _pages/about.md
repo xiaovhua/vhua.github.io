@@ -14,7 +14,7 @@ Welcome to my personal homepage!
 My name is LI Binghua, a doctoral student from China. I received my master's degree from 
 <a href="https://www.nankai.edu.cn/">Nankai University</a>
 in China, under the supervision of Prof. 
-<a href="[https://www.nankai.edu.cn/](https://ieeexplore.ieee.org/author/38295033800?history=no&highlight=true&returnType=SEARCH&sortType=newest&pageNumber=1&searchWithin=%22Author%20Ids%22:38295033800&returnFacets=ALL)">DUAN Feng</a>
+<a href="[https://www.nankai.edu.cn/](https://ieeexplore.ieee.org/author/38295033800?history=no&highlight=true&returnType=SEARCH&sortType=newest&pageNumber=1&searchWithin=%22Author%20Ids%22:38295033800&returnFacets=ALL)">DUAN Feng</a>.
 As a research intern, I have spent half a year at 
 <a href="https://www.riken.jp/en/research/labs/aip/">RIKEN AIP</a>
 during my master's studies, researching on tensor decomposition in Tensor Learning Team led by Prof. 
