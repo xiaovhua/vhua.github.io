@@ -1,0 +1,20 @@
+---
+title: "Are Diffusion Models Effective Good Feature Extractors for MRI Discriminative Tasks?"
+collection: publications
+permalink: /publication/2025-05-08-are
+excerpt: 'This work proposes a novel framework, termed CATS, that uses a diffusion model as a direct feature extractor for MRI-based discriminative tasks'
+date: 2025-05-08
+venue: ''
+paperurl: 'https://xrayinterpreter.com/paper/doi/10.2463/mrms.mp.2024-0206'
+codeurl: ''
+citation: 'Binghua Li, Zhe Sun, Chao Li, Koji Kamagata, Christina Andica, Wataru Uchida, Kaito Takabayashi, Sen Guo, Rui Zou, Shigeki Aoki, Toshihisa Tanaka and Qibin Zhao. Are Diffusion Models Effective Good Feature Extractors for MRI Discriminative Tasks? Magnetic Resonance in Medical Sciences, 2025: mp. 2024-0206.'
+pubtype: 'journal'
+---
+
+Purpose: Diffusion models (DMs) excel in pixel-level and spatial tasks and are proven feature extractors for 2D image discriminative tasks when pretrained. However, their capabilities in 3D MRI discriminative tasks remain largely untapped. This study seeks to assess the effectiveness of DMs in this underexplored area. 
+
+Methods: We use 59830 T1-weighted MR images (T1WIs) from the extensive, yet unlabeled, UK Biobank dataset. Additionally, we apply 369 T1WIs from the BraTS2020 dataset specifically for brain tumor classification, and 421 T1WIs from the ADNI1 dataset for the diagnosis of Alzheimer’sdisease. Firstly, a high-performing denoising diffusion probabilistic model (DDPM) with a U-Net backbone is pretrained on the UK Biobank, then fine-tuned on the BraTS2020 and ADNI1 datasets. Afterward, we assess its feature representation capabilities for discriminative tasks using linear probes. Finally, we accordingly introduce a novel fusion module, named CATS, thatenhancestheU-Netrepresentations, thereby improving performance on discriminative tasks. 
+
+Results: Our DDPM produces synthetic images of high quality that match the distribution of the raw datasets. Subsequent analysis reveals that DDPM features extracted from middle blocks and smaller timesteps are of high quality. Leveraging these features, the CATS module, with just 1.7M additional parameters, achieved average classification scores of 0.7704 and 0.9217 on the BraTS2020 and ADNI1 datasets, demonstrating competitive performance with that of the representations extracted from the transferred DDPM model, as well as the 33.23M parameters ResNet18 trained from scratch. 
+
+Conclusion: We have found that pretraining a DM on a large-scale dataset and then fine-tuning it on limited data from discriminative datasets is a viable approach for MRI data. With these well-performing DMs, we show that they excel not just in generation tasks but also as feature extractors when combined with our proposed CATS module.
